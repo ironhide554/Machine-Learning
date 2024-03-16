@@ -1,0 +1,7 @@
+,region-code,country,country-code,city,timezone,ip,latitude,valid,is-v4-mapped,hostname,continent-code,host-domain,currency-code,region,is-bogon,country-code3,is-v6,longitude
+abbr,VA,United States of America,US,Dulles,EDT,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
+date,VA,United States of America,US,Dulles,2024-03-16,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
+id,VA,United States of America,US,Dulles,America/New_York,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
+name,VA,United States of America,US,Dulles,Eastern Daylight Time,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
+offset,VA,United States of America,US,Dulles,-04:00,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
+time,VA,United States of America,US,Dulles,03:35:38.966166,162.209.106.137,38.951668,True,False,,NA,,USD,Virginia,False,USA,False,-77.44806
