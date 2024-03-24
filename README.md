@@ -30,6 +30,8 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 7: Feature Scaling(Standardization)
 
+### Day 8: Feature Scaling(Normalization)
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
