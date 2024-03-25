@@ -32,6 +32,10 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 8: Feature Scaling(Normalization)
 
+### Day 9: Handling Categorial Data(Ordinal and Label Encoding)
+
+### Day 10: Handling Categorial Data(One Hot Encoding)
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
