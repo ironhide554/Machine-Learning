@@ -36,6 +36,10 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 10: Handling Categorial Data(One Hot Encoding)
 
+### Day 11: Use of Column Transformer
+
+### Day 12: Revision of Standardization
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
