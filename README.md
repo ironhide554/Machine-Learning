@@ -40,6 +40,8 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 12: Revision of Standardization
 
+### Day 13: Revision of Normalization
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
