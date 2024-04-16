@@ -40,7 +40,7 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 12: Revision of Standardization
 
-### Day 13: Revision of Normalization
+### Day 13: Machine Learning Pipelines
 
 
 ## License
