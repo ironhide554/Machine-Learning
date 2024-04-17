@@ -42,6 +42,8 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 13: Machine Learning Pipelines
 
+### Day 14: Function Transformer
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
