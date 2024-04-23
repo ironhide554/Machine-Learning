@@ -46,7 +46,7 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 15: Power Transformer
 
-### Day 16: Binning
+### Day 16: Binning and Binarization
 
 
 ## License
