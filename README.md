@@ -52,6 +52,8 @@ Below is the outline of my learning schedule, where I explore different machine 
 
 ### Day 18: Handling Date and Time Variables
 
+### Day 19: Handling Missing Data
+
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content for any purpose.
